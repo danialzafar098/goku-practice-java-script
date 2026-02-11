@@ -1,0 +1,22 @@
+.size{
+    width: 400px;
+}
+
+.size1{
+    width: 400px;
+}
+
+.movement1{
+    position: relative;
+    right: 680px;
+}
+
+.movement2{
+    position: relative;
+    right: 410px;
+}
+
+.movement3{
+    position: relative;
+    bottom: 200px;
+}
